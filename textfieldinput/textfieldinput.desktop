@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=textfieldinput
+Exec=qmlscene %U textfieldinput/Main.qml
+Icon=textfieldinput/textfieldinput.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
